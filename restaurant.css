@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: rgb(87, 238, 238);
+}
+.one {
+    border:  solid red;
+    width: 700px;
+    margin-left: 350px;
+    border-radius: 50px;
+    background-color: rgb(255, 123, 0);
+}
+.two {
+    color: rgb(51, 7, 51);
+    padding-left: 10px;
+    font-size: 50px;
+}
+.zero {
+    padding-right: 25px;
+    font-size: 50px;
+}
+
+    

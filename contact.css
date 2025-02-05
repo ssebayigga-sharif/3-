@@ -1,0 +1,12 @@
+.one {
+    border:  solid red;
+    width: 700px;
+    margin-left: 350px;
+    border-radius: 50px;
+    background-color: rgb(255, 123, 0);
+    text-align: center;
+}
+body {
+    background-color: aqua;
+    text-align: center;
+}
